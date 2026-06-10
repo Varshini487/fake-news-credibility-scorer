@@ -1,0 +1,9 @@
+streamlit
+textblob
+requests
+scikit-learn
+spacy
+nltk
+pandas
+numpy
+transformers
